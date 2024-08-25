@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+.app img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
