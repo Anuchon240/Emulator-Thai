@@ -1,16 +1,19 @@
 body {
-    background-color: lightblue;
+    background-color: lightblue; /* Sets the background color of the page */
 }
+
 h1 {
-    color: white;
-    text-align: center;
+    color: white; /* Sets the color of the main heading text */
+    text-align: center; /* Centers the main heading text */
 }
+
 h2 {
-    color: white;
-    text-align: center;
+    color: white; /* Sets the color of the subheading text */
+    text-align: center; /* Centers the subheading text */
 }
+
 .app img {
-    width: 100px;
-    height: 100px;
-    margin-bottom: 10px;
+    width: 100px; /* Sets a fixed width for the images inside the .app class */
+    height: 100px; /* Sets a fixed height for the images inside the .app class */
+    margin-bottom: 10px; /* Adds some space below the images */
 }
